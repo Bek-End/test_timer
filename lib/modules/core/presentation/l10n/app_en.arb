@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "Test timer",
+  "timersList": "timers list",
+  "total": "total",
+  "paused": "paused",
+  "timer": "Timer",
+  "newTimer": "new timer",
+  "startRandomTimer": "start random timer"
+}
